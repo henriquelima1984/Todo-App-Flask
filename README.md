@@ -2,6 +2,8 @@
 
 To do list utilizando flask
 
+Acesse aqui : https://manager-task-flask.herokuapp.com/
+
 Passo a passo:
 
 1 - Criar um ambiente virtual e ativar:
